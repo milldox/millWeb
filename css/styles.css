@@ -113,8 +113,23 @@ a#brandName{
   letter-spacing: -1px;
 }
 
+.featurette{
+  margin-right: 20px;
+  margin-left: 20px;
+}
 
+.panel-title{
+	font-weight: bold;
+	margin-left: 20px;
+}
+.panel-body{
+	margin-left: 20px;
+}
 
+.btn-primary{
+	background-color: orange ;
+	border-color: white;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -154,4 +169,17 @@ a#brandName{
   .featurette-heading {
     margin-top: 120px;
   }
+}
+
+
+/* My CSS
+-------------------------------------------------- */
+.fdf-productsIntro h2 {
+	margin-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.fdf-productsIntro p {
+	
 }
